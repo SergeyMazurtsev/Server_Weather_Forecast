@@ -10,7 +10,8 @@
 ***
 
 <h3>Клиентская чать</h3>
-Для работы с текущим API используется десктопный [***клиент***][client].
+Для работы с текущим API используется десктопный [клиент][client].
+
 <br>
 
 ***
@@ -36,5 +37,5 @@ server.port=9090
 
 Так же, необходимо сделать unit тесты на все классы.
 
-[client]: https://github.com/SergeyMazurtsev/Simple_Weather_Forecast "Клиентская часть"
+[client]: https://github.com/SergeyMazurtsev/Simple_Weather_Forecast
 [7times_server]: http://www.7timer.info
